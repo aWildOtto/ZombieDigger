@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Zombie Digger</string>
+    <string name="welcome">Welcome to the Zombie Digger game</string>
+    <string name="startNotice">Hit the zombie real hard to enter</string>
+    <string name="Authors">By OttoHu \nErbo Shen</string>
+    <string name="Enter">Enter Game</string>
+    <string name="Menu_title">Main Menu</string>
+    <string name="start">PLAY!</string>
+    <string name="options">Options</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="board_size">Board size:</string>
+    <string name="num_mines"># Mines:</string>
+    <string name="time_erase">Erase times played</string>
+    <string name="helpText">Find all zombies hiding in the field!\nTap to investigate a block:\nA zombie will be dug up, or the number of zombies in the same row and column will show.\nThe goal is to find all zombies in the field using the fewest scans. \nGood luck!\n
+    </string>
+    <string name="Return">RETURN</string>
+    <string name="Save">SAVE</string>
+    <string name="menu_img_description">a menu welcome image</string>
+    <string name="BestScroreTittle">Your Best Score is:</string>
+    <string name="TimePlayedTittle">Times You have played:</string>
+    <string name="Warning">Number of Mines is greater than available slot,
+        Please change the number of mines
+    </string>
+    <string name="inAppPurchase">You used all Scan Times, Do you want to purchase more scan times?
+    </string>
+    <string name="poorGuy">Good luck next time
+    </string>
+    <string name="newRecord">New Record Achieved
+    </string>
+    <string name="youWin">You have dug up all of the zombies, Congratulations!
+    </string>
+    <string name="initNum">0</string>
+    <string-array name="dimDD">
+        <item>4 rows by 6 cols</item>
+        <item>5 rows by 8 cols</item>
+        <item>6 rows by 8 cols</item>
+        <item>4 rows by 8 cols</item>
+        <item>5 rows by 12 cols</item>
+        <item>6 rows by 15 cols</item>
+    </string-array>
+    <string name="findIntro">0 out of 6 zombies</string>
+    <string name="scrIntro">Scroe: 0</string>
+    <string-array name="numMineDD">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>25</item>
+        <item>35</item>
+    </string-array>
+    <string name="backtotheMenu">Do you wish to head back to the menu?</string>
+    <string name="freeScan">10 free scans received</string>
+    <string name="website">http://www.cs.sfu.ca/CourseCentral/276/bfraser/index.html</string>
+    <string name="playerWin">Player Win a game</string>
+    <string name="aMem">GOTTA DIG EM ALL!</string>
+    <string name="zombieDes">zombieImg</string>
+</resources>
