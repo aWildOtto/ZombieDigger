@@ -1,14 +1,17 @@
-Mine Seeker - Beta phrase
+Mine Seeker - finished product
 Now refreshed as Zombie Digger!
+
 Zhixuan(Otto) Hu
 Erbo Shen
 
 
-The game has passed the acceptance tests and running properly.
+The game has passed the acceptance tests and is running properly.
 
 Features:
 
-All general requirements
+All general requirements: gameplay - scan the blocks in the field to find mines, blocks show the number of mines in the same column and row. Find all mines to win.
+
+Extra features:
 
 Sound effects when the game starts, mine hit and game finishes.
 
@@ -17,8 +20,6 @@ High-Scores challenges
 Scores for every dimension are preserved between launches, as well as dimension last played, played time
 
 If the player runs out of scan chance, he can choose to purchase more (not really at the moment, we just give free scans if he wanted).
-
-Originally created launcher icon
 
 Reference
 
