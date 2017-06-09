@@ -7,7 +7,7 @@ Erbo Shen
 
 The game has passed the acceptance tests and is running properly.
 
-# Features:
+## Features:
 
 All general requirements: gameplay - scan the blocks in the field to find mines, blocks show the number of mines in the same column and row. Find all mines to win.
 
@@ -21,7 +21,9 @@ Scores for every dimension are preserved between launches, as well as dimension 
 
 If the player runs out of scan chance, he can choose to purchase more (not really at the moment, we just give free scans if he wanted).
 
-# Reference
+## Usage
+at the moment it's only openable via Android Studio
+## Reference
 
 welcome page:
 http://www.pngall.com/zombie-png
