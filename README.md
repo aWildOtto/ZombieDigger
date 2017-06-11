@@ -4,6 +4,24 @@ Now refreshed as Zombie Digger!
 Zhixuan(Otto) Hu
 Erbo Shen
 
+# Introduction
+![game](/screenShots/1.PNG)
+
+This is a simple mine seeker game
+
+![gameplay](/screenShots/2.PNG)
+
+Every scanned block shows the number of mines in the same column and row or a zombie is dug up.
+Different sound effects played on scans and game won
+Find all zombies to win
+
+![game won](/screenShots/4.PNG)
+
+Congratulations window
+
+![settings](/screenShots/3.PNG)
+
+Player can set the parameters of the game: The size of the field and the number of mines
 
 The game has passed the acceptance tests and is running properly.
 
