@@ -7,13 +7,13 @@ Erbo Shen
 # Introduction
 ![game](/screenShots/1.PNG)
 
-This is a simple Zombie Digger game and is a combination of Minecraft with zombies.
+This is a simple Zombie Digger game and is a combination of mine seeker and zombies.
 
 ![gameplay](/screenShots/2.PNG)
 
 Every scanned block shows the number of mines in the same column and row or a zombie is dug up.
 Different sound effects are played on scans and game won
-Finding all zombies to win
+Find all zombies to win
 
 ![game won](/screenShots/4.PNG)
 
