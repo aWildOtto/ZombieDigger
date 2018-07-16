@@ -7,7 +7,7 @@ Erbo Shen
 # Introduction
 ![game](/screenShots/1.PNG)
 
-This is a simple mine seeker game
+This is a simple Zombie Digger game and is a combination of Minecraft with zombies.
 
 ![gameplay](/screenShots/2.PNG)
 
