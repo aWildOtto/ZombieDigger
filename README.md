@@ -7,12 +7,12 @@ Erbo Shen
 # Introduction
 ![game](/screenShots/1.PNG)
 
-This is a simple mine seeker game
+This is a simple Zombie Digger game and is a combination of mine seeker and zombies.
 
 ![gameplay](/screenShots/2.PNG)
 
 Every scanned block shows the number of mines in the same column and row or a zombie is dug up.
-Different sound effects played on scans and game won
+Different sound effects are played on scans and game won
 Find all zombies to win
 
 ![game won](/screenShots/4.PNG)
@@ -31,7 +31,7 @@ All general requirements: gameplay - scan the blocks in the field to find mines,
 
 Extra features:
 
-Sound effects when the game starts, mine hit and game finishes.
+Sound effects when the game starts, mine hits and game finishes.
 
 High-Scores challenges
 
