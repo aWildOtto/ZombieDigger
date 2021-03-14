@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MineSeeker.iml" filepath="$PROJECT_DIR$/MineSeeker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZombieDigger.iml" filepath="$PROJECT_DIR$/.idea/modules/ZombieDigger.iml" group="ZombieDigger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZombieDigger-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZombieDigger-app.iml" group="ZombieDigger/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
